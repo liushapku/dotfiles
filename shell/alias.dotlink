@@ -1,0 +1,4 @@
+export DOTFILES="$HOME/repos/dotfiles"
+export EDITOR="nvim"
+
+alias todot='cd $DOTFILES'

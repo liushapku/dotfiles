@@ -2,3 +2,6 @@ export DOTFILES="$HOME/repos/dotfiles"
 export EDITOR="nvim"
 
 alias todot='cd $DOTFILES'
+alias vi='nvim'
+alias dotpull='(cd $DOTFILES && git pull)'
+alias dotpush='(cd $DOTFILES && git push)'
